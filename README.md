@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/0486-predict-the-winner) |
+| [0733-flood-fill](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/0733-flood-fill) |
 | [0877-stone-game](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/0877-stone-game) |
 ## Math
 |  |
@@ -36,4 +37,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+## Depth-First Search
+|  |
+| ------- |
+| [0733-flood-fill](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/0733-flood-fill) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0733-flood-fill](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/0733-flood-fill) |
+## Matrix
+|  |
+| ------- |
+| [0733-flood-fill](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/0733-flood-fill) |
 <!---LeetCode Topics End-->
