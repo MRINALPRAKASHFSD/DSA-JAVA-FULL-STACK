@@ -46,10 +46,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/0733-flood-fill) |
+| [3310-remove-methods-from-project](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/0733-flood-fill) |
+| [3310-remove-methods-from-project](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/3310-remove-methods-from-project) |
 ## Matrix
 |  |
 | ------- |
@@ -74,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3731-find-missing-elements](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/3731-find-missing-elements) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
