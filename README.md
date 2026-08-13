@@ -126,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Database
+|  |
+| ------- |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/1327-list-the-products-ordered-in-a-period) |
 <!---LeetCode Topics End-->
