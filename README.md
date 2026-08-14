@@ -48,12 +48,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Sliding Window
 |  |
 | ------- |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
