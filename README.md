@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/0733-flood-fill) |
 | [0877-stone-game](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/1140-stone-game-ii) |
+| [1386-cinema-seat-allocation](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/1406-stone-game-iii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/1386-cinema-seat-allocation) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
 |  |
@@ -135,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/1327-list-the-products-ordered-in-a-period) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1386-cinema-seat-allocation](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/1386-cinema-seat-allocation) |
 <!---LeetCode Topics End-->
