@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/3731-find-missing-elements) |
 ## Math
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/1406-stone-game-iii) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Dynamic Programming
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Prefix Sum
 |  |
@@ -143,8 +146,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/1386-cinema-seat-allocation) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Simulation
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Binary Search
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Combinatorics
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 <!---LeetCode Topics End-->
