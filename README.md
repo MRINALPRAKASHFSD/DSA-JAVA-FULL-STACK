@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/0136-single-number) |
 | [0486-predict-the-winner](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/0486-predict-the-winner) |
 | [0733-flood-fill](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/0733-flood-fill) |
 | [0877-stone-game](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/0877-stone-game) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/0136-single-number) |
 | [1386-cinema-seat-allocation](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Simulation
