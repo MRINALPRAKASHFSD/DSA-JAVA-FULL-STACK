@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/1406-stone-game-iii) |
 | [1872-stone-game-viii](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/1872-stone-game-viii) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/0115-distinct-subsequences) |
+| [0940-distinct-subsequences-ii](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/0940-distinct-subsequences-ii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1927-sum-game](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/2213-longest-substring-of-one-repeating-character) |
