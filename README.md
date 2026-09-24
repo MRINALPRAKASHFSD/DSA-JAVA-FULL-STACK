@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/3525-find-x-value-of-array-ii) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/3875-construct-uniform-parity-array-i) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3348-smallest-divisible-digit-product-ii](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/3525-find-x-value-of-array-ii) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3871-count-commas-in-range-ii](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/3876-construct-uniform-parity-array-ii) |
