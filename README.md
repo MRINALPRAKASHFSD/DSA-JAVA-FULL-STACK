@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/0136-single-number) |
 | [0455-assign-cookies](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/0486-predict-the-winner) |
+| [0561-array-partition](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/0561-array-partition) |
 | [0733-flood-fill](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/0877-stone-game) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/0561-array-partition) |
 | [1096-brace-expansion-ii](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/0561-array-partition) |
 | [1386-cinema-seat-allocation](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/1927-sum-game) |
@@ -283,4 +286,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/0455-assign-cookies) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
