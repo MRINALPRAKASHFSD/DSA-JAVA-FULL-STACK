@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/0001-two-sum) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/0136-single-number) |
 | [0455-assign-cookies](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/0486-predict-the-winner) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/0115-distinct-subsequences) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/0940-distinct-subsequences-ii) |
