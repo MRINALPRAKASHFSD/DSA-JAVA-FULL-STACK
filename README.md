@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/0136-single-number) |
+| [0455-assign-cookies](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/0486-predict-the-winner) |
 | [0733-flood-fill](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/0835-image-overlap) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/0455-assign-cookies) |
 | [1096-brace-expansion-ii](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/0455-assign-cookies) |
 | [1386-cinema-seat-allocation](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/1927-sum-game) |
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/0455-assign-cookies) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Union-Find
@@ -275,4 +279,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/MRINALPRAKASHFSD/DSA-JAVA-FULL-STACK/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
